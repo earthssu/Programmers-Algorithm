@@ -1,4 +1,4 @@
-def bfs(graph, start_node):
+def dfs(graph, start_node):
     visit = []
     stack = [start_node]
 

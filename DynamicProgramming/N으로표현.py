@@ -21,6 +21,3 @@ def solution(N, number):
                 return i
             possible_set.append(case_set)
     return -1
-
-
-print(solution(5, 12))

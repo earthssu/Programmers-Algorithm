@@ -12,6 +12,3 @@ def solution(m, n, puddles):
                 answers[i][j] += answers[i][j-1] + answers[i-1][j]
 
     return answers[n][m] % 1000000007
-
-
-print(solution(4, 3, [[2, 2]]))

@@ -14,6 +14,3 @@ def solution(nums):
             answer += 1
 
     return answer
-
-
-print(solution([1,2,7,6,4]))

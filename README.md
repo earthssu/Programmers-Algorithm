@@ -1,2 +1,2 @@
 # Programmers-Algorithm
-매일 알고리즘 공부 기록 📑 with Programmers
+매일 알고리즘 공부 기록 📑 with Programmers & Baekjoon (solved.ac)

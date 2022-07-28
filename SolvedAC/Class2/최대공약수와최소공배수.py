@@ -12,3 +12,7 @@ LCM = a * b // GCD
 
 print(GCD)
 print(LCM)
+
+arr = [1]
+arr.insert(0, 2)
+print(arr)
